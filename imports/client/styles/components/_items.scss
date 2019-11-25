@@ -1,0 +1,28 @@
+.item {
+    background: #ffffff;
+    border: 1px solid #e8e8e8;
+    margin-bottom: 1.3rem;
+    padding: 1.3rem;
+}
+
+.item__message {
+    font-size: 1.3rem;
+    font-style: italic;
+    color: $orange;
+    text-align: center;
+}
+
+.item--position-1 {
+    background: $green;
+    border: solid 1px darken($green,20)
+}
+
+.item--position-2 {
+    background:$yellow;
+    border: solid 1px darken($yellow,20)
+}
+
+.item--position-3 {
+    background: $lightorange;
+    border: solid 1px darken($lightorange,20)
+}
