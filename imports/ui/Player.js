@@ -32,8 +32,3 @@ export default class Player extends React.Component {
     );
   }
 };
-
-// Setup prop types. player should be a required object
-Player.propTypes = {
-  player: React.PropTypes.object.isRequired
-};
