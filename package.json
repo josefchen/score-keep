@@ -8,8 +8,8 @@
     "install": "^0.13.0",
     "meteor-node-stubs": "~0.2.0",
     "numeral": "^2.0.6",
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
     "react-flip-move": "^3.0.3"
   }
 }
